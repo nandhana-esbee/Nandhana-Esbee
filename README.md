@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nandhana-Esbee
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning computer science Engineering 
+- 👀 I’m interested in coding especially in java
+- 🌱 I’m currently learning computer science Engineering at College of engineering Attingal (CEA)
 - 📫 reach me on nandhanaesbee16@gmail.com 
 
 <!---
