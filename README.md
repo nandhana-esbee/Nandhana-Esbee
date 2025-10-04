@@ -1,9 +1,79 @@
-- 👋 Hi, I’m @Nandhana-Esbee
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning computer science Engineering at College of engineering Attingal (CEA)
-- 📫 reach me on nandhanaesbee16@gmail.com 
+<h1 align="center">Hello👋, I'm Nandhana S B</h1>
 
-<!---
-Nandhana-Esbee/Nandhana-Esbee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+stack+Developer;AI+ML+Developer;" alt="Typing SVG" />
+</p>
+
+### 👨‍💻 About Me
+
+- 🔭 I'm currently working at **Tata Consultancy Services**
+- 🌱 I'm currently learning **React and Springboot**
+- 💬 Ask me about **Python, Django, Ai/ML**
+- 📫 How to reach me: **nandhanaesbee16@gmail.com**
+- ⚡ Fun fact: **I love watching series/movies and drawing in my free time**
+- 📍 Based in **Thiruvananthapuram, Kerala, India**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  &nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  &nbsp
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  &nbsp
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  &nbsp
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nandhana-esbee&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhana-esbee&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nandhana-esbee&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nandhana-esbee&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+<a href="www.linkedin.com/in/nandhanaesbee16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> &nbsp
+<a href="mailto:nandhanaesbee16@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
