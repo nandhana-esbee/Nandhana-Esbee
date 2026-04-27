@@ -6,9 +6,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working at **Tata Consultancy Services**
-- 🌱 I'm currently learning **React and Springboot**
-- 💬 Ask me about **Python, Django, Ai/ML**
+- 🔭 I'm currently working at **Tata Consultancy Services** as **AI Engineer**
+- 🌱 I'm currently learning **crewai and Fastapi**
+- 💬 Ask me about **Python, Ai/ML**
 - 📫 How to reach me: **nandhanaesbee16@gmail.com**
 - ⚡ Fun fact: **I love watching series/movies and drawing in my free time**
 - 📍 Based in **Thiruvananthapuram, Kerala, India**
